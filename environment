@@ -1,0 +1,4 @@
+QT_QPA_PLATFORMTHEME="qtcurve"
+EDITOR=/usr/bin/nano
+PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
+export NO_AT_BRIDGE=1
